@@ -1,3 +1,3 @@
-* Fruits
-* Vegetables
-* Emoji
+- Emoji
+- Ordered Lists
+- Unordered Lists
